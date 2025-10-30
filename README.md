@@ -1,3 +1,94 @@
+Recipe Ideas App
+Overview
+
+Recipe Ideas App is a web application built using React that helps users discover and explore recipes from around the world.
+The app fetches recipe data from TheMealDB API and displays a list of recipes with images, names, and ingredients.
+Users can search recipes by name and view detailed cooking instructions.
+
+This project was developed as part of the Take-Home Challenge to demonstrate skills in frontend development, problem-solving, and API integration.
+
+Features
+
+Recipe Search – Users can search for any recipe by entering keywords (for example, “chicken”, “pasta”).
+
+Dynamic Results – Recipes are fetched from TheMealDB API and displayed dynamically.
+
+Recipe Cards – Each recipe card shows an image, title, and short description.
+
+Detailed View – Clicking a recipe shows detailed information including category, origin, ingredients, and cooking instructions.
+
+Responsive Design – Works across mobile, tablet, and desktop.
+
+Error Handling – Displays a friendly message when no recipes are found.
+
+Loading Indicator – Shows a loader while data is being fetched.
+
+Assessment Focus
+
+This app was built to meet the challenge requirements:
+
+Understanding and implementing user requirements
+
+Designing a user-friendly interface
+
+Using React and plain CSS for UI development
+
+Handling API data effectively
+
+Maintaining clean and readable code structure
+
+Tech Stack
+
+Frontend: React (Create React App)
+
+Styling: Plain CSS
+
+API: TheMealDB (https://www.themealdb.com/api.php
+)
+
+Deployment: Vercel
+
+Live Demo
+
+Deployed Application Link: https://recipe-ideas-app-ruby.vercel.app/
+
+Code Repository
+
+GitHub Repository: https://github.com/Bhavanikamlay07/RecipeIdeasApp
+
+How to Run Locally
+
+Clone the repository
+git clone https://github.com/Bhavanikamlay07/RecipeIdeasApp.git
+
+Navigate to the project folder
+cd RecipeIdeasApp
+
+Install dependencies
+npm install
+
+Start the development server
+npm start
+
+Then open http://localhost:3000/
+in your browser.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
