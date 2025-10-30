@@ -1,5 +1,6 @@
-Recipe Ideas App
-Overview
+**Recipe Ideas App**
+
+**Overview**
 
 Recipe Ideas App is a web application built using React that helps users discover and explore recipes from around the world.
 The app fetches recipe data from TheMealDB API and displays a list of recipes with images, names, and ingredients.
@@ -7,8 +8,7 @@ Users can search recipes by name and view detailed cooking instructions.
 
 This project was developed as part of the Take-Home Challenge to demonstrate skills in frontend development, problem-solving, and API integration.
 
-Features
-
+**Features**
 Recipe Search – Users can search for any recipe by entering keywords (for example, “chicken”, “pasta”).
 
 Dynamic Results – Recipes are fetched from TheMealDB API and displayed dynamically.
@@ -23,7 +23,7 @@ Error Handling – Displays a friendly message when no recipes are found.
 
 Loading Indicator – Shows a loader while data is being fetched.
 
-Assessment Focus
+**Assessment Focus**
 
 This app was built to meet the challenge requirements:
 
@@ -37,7 +37,7 @@ Handling API data effectively
 
 Maintaining clean and readable code structure
 
-Tech Stack
+**Tech Stack**
 
 Frontend: React (Create React App)
 
@@ -52,11 +52,11 @@ Live Demo
 
 Deployed Application Link: https://recipe-ideas-app-ruby.vercel.app/
 
-Code Repository
+**Code Repository**
 
 GitHub Repository: https://github.com/Bhavanikamlay07/RecipeIdeasApp
 
-How to Run Locally
+**How to Run Locally**
 
 Clone the repository
 git clone https://github.com/Bhavanikamlay07/RecipeIdeasApp.git
